@@ -1,0 +1,32 @@
+ .body{
+    margin: 0px;
+} 
+
+.head1{
+    background-color: lightblue;
+    color: aquamarine;
+    text-align:right;
+    width: 1000px;
+    height: 100px;
+  
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 460px 300px;
+  width:500px; 
+  height: 100vh;
+  padding: 0px;
+}
+
+
+.f1{
+    background-color:darkgray;
+    color: aquamarine;
+    text-align:right;
+    width: 800px;
+    height: 100px;
+       
+}
+
+

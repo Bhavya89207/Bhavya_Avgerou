@@ -1,0 +1,33 @@
+ .body{
+    margin: 0px;
+} 
+
+.head1{
+    background-color: lightblue;
+    color: aquamarine;
+    text-align:right;
+    width: 1000px;
+    height: 100px;
+  
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  width:800px; 
+  height: 500px;
+  padding: 0px;
+   
+}
+
+
+.f1{
+    background-color:darkgray;
+    color: aquamarine;
+    text-align:right;
+    width: 800px;
+    height: 100px;
+       
+}
+
+
